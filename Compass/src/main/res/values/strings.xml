@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Compass</string>
+    <string name="alt_background">Windrose background image</string>
+    <string name="alt_pointer">Pointer image</string>
+    <string name="error_sensor_service">Can\'t start sensor service :(</string>
+    <string name="error_no_sensor">Your device doesn\'t have the required sensor :(</string>
+    <string name="degrees_360" translatable="false">360º</string>
+
+</resources>

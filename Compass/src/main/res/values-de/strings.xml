@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Kompass</string>
+    <string name="alt_background">Windrose Bild</string>
+    <string name="alt_pointer">Zeigerbild</string>
+    <string name="error_sensor_service">Kann das Sensor-System starten :(</string>
+    <string name="error_no_sensor">Ihr Gerät nicht die erforderliche Sensor haben :(</string>
+
+</resources>

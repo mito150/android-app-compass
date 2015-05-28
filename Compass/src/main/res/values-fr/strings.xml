@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Boussole</string>
+    <string name="alt_background">l\'image rose des vents</string>
+    <string name="alt_pointer">image pointeur</string>
+    <string name="error_sensor_service">Impossible de démarrer le système de capteur :(</string>
+    <string name="error_no_sensor">Votre appareil ne possède pas de capteur nécessaire :(</string>
+
+</resources>

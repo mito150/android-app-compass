@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Brújula</string>
+    <string name="alt_background">Imagen Rosa de los Vientos</string>
+    <string name="alt_pointer">Imagen puntero</string>
+    <string name="error_sensor_service">No se puede iniciar el sistema de sensores :(</string>
+    <string name="error_no_sensor">Tu dispositivo no tiene el sensor requerido :(</string>
+
+</resources>

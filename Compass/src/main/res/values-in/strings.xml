@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Kompas</string>
+    <string name="alt_background">angin naik gambar</string>
+    <string name="alt_pointer">gambar penunjuk</string>
+    <string name="error_sensor_service">Tidak dapat memulai sistem sensor :(</string>
+    <string name="error_no_sensor">Perangkat Anda tidak memiliki sensor yang diperlukan :(</string>
+
+</resources>

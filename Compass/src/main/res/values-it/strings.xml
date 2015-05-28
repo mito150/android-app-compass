@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bussola</string>
+    <string name="alt_background">immagine rosa dei venti</string>
+    <string name="alt_pointer">immagine del puntatore</string>
+    <string name="error_sensor_service">Impossibile avviare il sistema di sensori :(</string>
+    <string name="error_no_sensor">Il tuo dispositivo non ha il sensore desiderato :(</string>
+
+</resources>
